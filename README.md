@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Bem vindo a tentativa de criar uma pagina
 
-You can use the [editor on GitHub](https://github.com/acgoularthub/ccuern/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales eu dolor in vehicula. Sed varius ipsum ac ipsum dictum finibus. Quisque sed elementum mi. Praesent viverra, lorem sit amet commodo ullamcorper, velit tellus eleifend nulla, ac viverra ipsum velit ut risus. Proin cursus magna nisl, in scelerisque erat egestas in. Sed eu gravida justo, ac laoreet sapien. Nunc eu mauris non odio feugiat porta ut at velit. Duis sagittis eleifend dui, dignissim hendrerit purus viverra eu. 
 
 ### Markdown
 
@@ -26,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para maiores detalhes: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
@@ -36,21 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<!DOCTYPE html>
 
-	<html>
-
-		<head>
-
-			<title>Teste Pagina CC UERN</title>
-			<meta charset="utf-8">
-
-		</head>
-
-		<body>
-			<h1>Teste init</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas fringilla dictum ex, quis sodales risus interdum sit amet. Vestibulum convallis aliquet nibh nec euismod. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam dignissim est non nunc tempus, et posuere nisl tincidunt. In vitae molestie nisi. Aliquam consequat eros lectus, id finibus metus condimentum quis. Suspendisse ante nulla, ultrices id dolor eu, hendrerit fermentum nisl. Suspendisse ut nunc elementum, elementum lacus quis, tincidunt diam. Cras viverra in felis vel imperdiet. Integer sodales ac dolor vitae malesuada. </p>
-
-		</body>
-
-	</html>
