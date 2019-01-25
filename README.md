@@ -1,6 +1,6 @@
-## Bem vindo a tentativa de criar uma pagina
+## Bem vindo ao lar dos "menos favorecidos de inteligencia e criatividade do curso"
 
-Este repositório foi contruido comoobjetivo de instruir alunos no aprendizado e apresentação de paginas web com html, css, php, javascript e outros. 
+Este repositório foi contruido com o objetivo de instruir alunos no aprendizado e apresentação de paginas web com html, css, php, javascript e outros, assim como o básico necessário para se programar em algumas linguagens.
 
 
 
