@@ -29,7 +29,7 @@ Este repositório foi contruido com o objetivo de instruir alunos no aprendizado
 
 
 
-### Markdown
+### Markdown (Isto é um pedaço da explicação do git que não posso esquecer)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
