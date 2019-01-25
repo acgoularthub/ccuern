@@ -1,6 +1,6 @@
 ## Bem vindo a tentativa de criar uma pagina
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales eu dolor in vehicula. Sed varius ipsum ac ipsum dictum finibus. Quisque sed elementum mi. Praesent viverra, lorem sit amet commodo ullamcorper, velit tellus eleifend nulla, ac viverra ipsum velit ut risus. Proin cursus magna nisl, in scelerisque erat egestas in. Sed eu gravida justo, ac laoreet sapien. Nunc eu mauris non odio feugiat porta ut at velit. Duis sagittis eleifend dui, dignissim hendrerit purus viverra eu. 
+Este repositório foi contruido comoobjetivo de instruir alunos no aprendizado e apresentação de paginas web com html, css, php, javascript e outros. 
 
 ### Markdown
 
@@ -22,6 +22,25 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+# Código base do html para criação de uma página em HTML:
+```
+<!DOCTYPE html>
+
+	<html>
+
+		<head>
+
+			<title>Teste Pagina CC UERN</title>
+			<meta charset="utf-8">
+
+		</head>
+
+		<body>
+		
+		</body>
+
+	</html>
 ```
 
 Para maiores detalhes: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
