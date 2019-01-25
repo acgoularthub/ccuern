@@ -2,6 +2,33 @@
 
 Este repositório foi contruido comoobjetivo de instruir alunos no aprendizado e apresentação de paginas web com html, css, php, javascript e outros. 
 
+
+
+
+# Código base do html para criação de uma página em HTML:
+```
+<!DOCTYPE html>
+
+	<html>
+
+		<head>
+
+			<title>Teste Pagina CC UERN</title>
+			<meta charset="utf-8">
+
+		</head>
+
+		<body>
+		
+		</body>
+
+	</html>
+```
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -23,25 +50,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-# Código base do html para criação de uma página em HTML:
-```
-<!DOCTYPE html>
 
-	<html>
-
-		<head>
-
-			<title>Teste Pagina CC UERN</title>
-			<meta charset="utf-8">
-
-		</head>
-
-		<body>
-		
-		</body>
-
-	</html>
-```
 
 Para maiores detalhes: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -54,3 +63,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
+Mais em [CCUERN Github](https://github.com/acgoularthub/ccuern)
